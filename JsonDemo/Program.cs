@@ -27,6 +27,7 @@ namespace JsonDemo
             }
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello Client");
+            Console.WriteLine("Lại là Server nè");
             Console.ReadKey();
         }
     }
