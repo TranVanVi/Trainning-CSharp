@@ -26,9 +26,14 @@ namespace JsonDemo
                 Console.WriteLine(item.AirLine_Name);
             }
             Console.WriteLine("Hello World");
+<<<<<<< HEAD
             Console.WriteLine("Use Commit");
 
             Console.WriteLine("User Continue commit ");
+=======
+            Console.WriteLine("Hello Client");
+            Console.WriteLine("Lại là Server nè");
+>>>>>>> dd926284280d8d3543f166667eb974c888d1ea7e
             Console.ReadKey();
         }
     }
