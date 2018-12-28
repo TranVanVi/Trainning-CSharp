@@ -1,0 +1,29 @@
+[
+  {
+    "airline_code": "VNA",
+    "airline_name": "VietNameAirline",
+    "airline_details": {
+      "day": 1,
+      "month": 1,
+      "year": 2000
+    }
+  },
+  {
+    "airline_code": "BO",
+    "airline_name": "BOEING",
+    "airline_details": {
+      "day": 1,
+      "month": 1,
+      "year": 2000
+    }
+  },
+  {
+    "airline_code": "VJA",
+    "airline_name": "VietJetAir",
+    "airline_details": {
+      "day": 1,
+      "month": 1,
+      "year": "2000"
+    }
+  }
+]
