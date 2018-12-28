@@ -25,7 +25,9 @@ namespace JsonDemo
                 Console.WriteLine(item.AirLine_Code);
                 Console.WriteLine(item.AirLine_Name);
             }
-            Console.WriteLine("Client Change Status");
+
+            Console.WriteLine("Hello Client");
+
             Console.ReadKey();
         }
     }
