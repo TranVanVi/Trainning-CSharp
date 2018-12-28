@@ -26,6 +26,7 @@ namespace JsonDemo
                 Console.WriteLine(item.AirLine_Name);
             }
             Console.WriteLine("Hello World");
+            Console.WriteLine("Hello Client");
             Console.ReadKey();
         }
     }
