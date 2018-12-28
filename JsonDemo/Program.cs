@@ -28,6 +28,7 @@ namespace JsonDemo
 
             Console.WriteLine("Tiếp tục Hello Client");
             Console.WriteLine("Heelo server");
+            Console.WriteLine("Commit by Terminal");
 
             Console.ReadKey();
         }
